@@ -1,2 +1,2 @@
 # customer_behavior_analysis
-data analysis project showcasing customer behavior analysis using python ,sql ,powerbi
+Data Analysis Project showcasing customer behavior analysis using python ,sql ,powerbi
